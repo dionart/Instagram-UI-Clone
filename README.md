@@ -1,0 +1,1 @@
+Small application developed a few months ago to study the LazyImage component used in Instagram
